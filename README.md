@@ -26,4 +26,4 @@ In this notebook, we are going to use One vs Rest(OvR) and One vs One(OvO) algor
 
 Further, we we will use the Decision Tree and Random Forest algorithms to solve the same problem, click here to see
 
-Finally, we will use the k-NN and Naive Bayes algorithms to solve the same customer segmentation problem.
+Finally, we will use the k-NN and Naive Bayes algorithms to analyse and sove the the same muli-class classification customer segmentation problem.
